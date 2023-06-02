@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/YoungZV/results-summary-component-main.git
+- Live Site URL: https://youngzv.github.io/results-summary-component-main/
 
 ## My process
 
